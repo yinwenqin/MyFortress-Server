@@ -1,0 +1,22 @@
+alice:
+  password: a123456
+  group:
+    - view
+
+bob:
+  password: b123456
+  group:
+    - app
+
+jack:
+  password: j123456
+  group:
+    - app
+    - dba
+
+slade:
+  password: p123456
+  group:
+    - view
+    - admin
+

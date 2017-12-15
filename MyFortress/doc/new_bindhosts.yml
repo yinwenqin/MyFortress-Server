@@ -1,0 +1,23 @@
+bind1:
+  groupname: view
+  hostname:
+    - nginx
+    - mysql
+    - python
+
+bind2:
+  groupname: app
+  hostname:
+    - nginx
+
+bind3:
+  groupname: dba
+  hostname:
+    - mysql
+
+bind4:
+  groupname: admin
+  hostname:
+    - nginx
+    - mysql
+    - python

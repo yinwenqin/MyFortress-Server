@@ -1,0 +1,15 @@
+
+view:
+  password: view123456
+
+
+app:
+  password: app123456
+
+
+dba:
+  password: dba123456
+
+
+admin:
+  password: admin123456
